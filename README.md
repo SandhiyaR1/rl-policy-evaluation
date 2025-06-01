@@ -24,7 +24,6 @@ def policy_evaluation(pi, P, gamma=1.0, theta=1e-10):
 ### POLICIES
 ![449760695-adc0d7ff-2c33-4531-aa07-455e1b194ad2](https://github.com/user-attachments/assets/e0155004-0ba1-4723-9abb-3436ebfbdd30)
 
-![449760748-46e65f57-c72e-44b0-9637-0227622b1d61](https://github.com/user-attachments/assets/e49a87b4-a8d6-4d5a-8388-5727a23f34f7)
 
 ### STATE VALUE FUNCTION
 ![449760868-9f338471-7f9d-4db4-b177-ec850bb37705](https://github.com/user-attachments/assets/66dc2e9d-cdc3-464e-9547-7f66320c9733)
